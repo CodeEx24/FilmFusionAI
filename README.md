@@ -1,5 +1,7 @@
 # AI Movie Poster Generator
 
+![image](https://github.com/user-attachments/assets/76ea66f6-2f1c-405a-8bd7-64d84d22ac08)
+
 A modern web application that generates unique movie posters using OpenAI's DALL-E AI models. Transform your favorite movies into artistic masterpieces with different art styles.
 
 ## Features
